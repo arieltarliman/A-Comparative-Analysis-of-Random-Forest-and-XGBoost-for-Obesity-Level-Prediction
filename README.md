@@ -2,7 +2,7 @@
 
 ## 🚀 Introduction
 
-This project presents a comparative analysis of two powerful machine learning models—**Random Forest** and **XGBoost**—for the prediction of obesity levels based on a comprehensive set of demographic, lifestyle, and health-related features. The primary objective is to develop a reliable classification model that can be used for early screening and to identify the most significant factors contributing to an individual's weight status.
+This project presents a comparative analysis of two powerful machine learning models **Random Forest** and **XGBoost** for the prediction of obesity levels based on a comprehensive set of demographic, lifestyle, and health-related features. The primary objective is to develop a reliable classification model that can be used for early screening and to identify the most significant factors contributing to an individual's weight status.
 
 This repository contains the complete analysis in a Jupyter Notebook, detailing every step from data exploration and preprocessing to model training, hyperparameter tuning, and in-depth evaluation.
 
